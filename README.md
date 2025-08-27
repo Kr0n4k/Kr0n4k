@@ -64,13 +64,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kr0n4k&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
 
 ### ✍️ Random Dev Quote
 
@@ -79,7 +72,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Kr0n4k&icon=5&color=0" alt="Profile Visits" />
-</p>
