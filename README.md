@@ -2,21 +2,17 @@
 <h3 align="center">A passionate 16-year-old Fullstack Developer from Russia 🚀</h3>
 
 <p align="center">
+  <!-- Gmail - Вариант 1 -->
   <a href="mailto:grinn2009@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:grinn2009@gmail.com" alt="Email"/>
+    grinn2009@gmail.com
   </a>
+  <span> | </span>
+  <!-- Telegram - Вариант 1 -->
   <a href="https://t.me/kr0n4k">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    @kr0n4k
   </a>
-  <!-- Добавьте свои реальные ссылки, когда они появятся -->
-  <!--
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  -->
 </p>
 
 ---
