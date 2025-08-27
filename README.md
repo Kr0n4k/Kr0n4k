@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 I’m currently deepening my knowledge in **NestJS, Docker, and advanced React patterns**
-- 🎯 **Goal for 2024:** Contribute to an open-source project and master microservices architecture
+- 🎯 **Goal for 2025-2026:** Contribute to an open-source project and master microservices architecture
 - 💡 Passionate about creating efficient, scalable and user-friendly applications
 - 🎨 Fun fact: **I started coding at 14 and love bringing ideas to life through code!**
 
